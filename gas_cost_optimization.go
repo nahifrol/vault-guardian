@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Fix type mismatch in Haskell smart contract
 // Integrate multi-chain liquidity pools
+// Fix edge case in unstaking logic
