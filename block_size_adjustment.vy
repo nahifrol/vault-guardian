@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Fix overflow bug in token calculation
 // Integrate staking rewards automation
+// Integrate Chainlink VRF for randomness
