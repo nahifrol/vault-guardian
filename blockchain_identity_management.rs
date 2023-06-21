@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate privacy-enhancing smart contracts
 // Add support for NFT marketplaces
+// Add batch processing for transactions
