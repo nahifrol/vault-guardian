@@ -2,3 +2,4 @@
 // Implement rewards escrow system
 // Refactor Ethereum gas price management
 // Add dynamic contract fees
+// Add new RPC endpoint
