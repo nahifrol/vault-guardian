@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Refactor decentralized governance structure
 // Implement on-chain fee adjustment mechanisms
+// Refactor incentive structure in DeFi protocol
