@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Add multi-sig wallet functionality
 // Optimize hashing algorithm
+// Fix interoperability issues with other blockchains
