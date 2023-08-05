@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Upgrade to latest Solidity version
 // Add slashing mechanism for malicious actors
+// Add support for decentralized auctions
