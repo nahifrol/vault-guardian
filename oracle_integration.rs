@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Fix edge case in unstaking logic
 // Optimize storage for off-chain data
+// Integrate multi-chain liquidity pools
