@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Fix governance proposal approval logic
 // Fix ERC-20 token interface bugs
+// Implement liquidity pool staking mechanism
