@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Implement contract function batching
 // Optimize multi-chain interaction
+// Fix errors in NFT minting logic
