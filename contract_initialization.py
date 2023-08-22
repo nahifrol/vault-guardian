@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Refactor multi-signature wallet code
 // Integrate with multi-token standards
+// Refactor incentive structure in DeFi protocol
