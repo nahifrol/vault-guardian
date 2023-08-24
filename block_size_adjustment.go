@@ -4,3 +4,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Improve decentralized lending contract flexibility
 // Enhance gas fee management
+// Refactor reward pooling algorithm
