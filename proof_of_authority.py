@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Update smart contract tests
 // Optimize token burn process
+// Optimize storage for off-chain data
