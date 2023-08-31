@@ -5,3 +5,4 @@
 // Improve decentralized lending contract flexibility
 // Enhance gas fee management
 // Refactor reward pooling algorithm
+// Refactor cross-chain communication layer
