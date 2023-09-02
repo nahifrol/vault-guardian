@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Improve multi-chain contract deployment
 // Implement adaptive block size for Ethereum
+// Add support for Layer-2 solutions
