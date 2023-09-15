@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Implement price feed oracles for tokens
 // Update testing framework for Solidity
+// Add decentralized contract upgradeability
