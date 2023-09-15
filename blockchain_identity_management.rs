@@ -4,3 +4,4 @@
 // Integrate privacy-enhancing smart contracts
 // Add support for NFT marketplaces
 // Add batch processing for transactions
+// Add support for multi-signature wallet contracts
