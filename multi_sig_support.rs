@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Add fallback mechanism in Solidity contract
 // Enhance contract upgrade process
+// Refactor voting mechanism
