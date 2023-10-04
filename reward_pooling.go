@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Add dynamic contract upgrade mechanisms
 // Add governance proposal expiration feature
+// Fix errors in NFT minting logic
