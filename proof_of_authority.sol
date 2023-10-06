@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance privacy features using zk-STARKs
 // Improve contract modularity
+// Refactor multi-asset token management
