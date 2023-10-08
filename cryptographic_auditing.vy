@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Enhance smart contract upgradeability
 // Improve scalability for smart contract platforms
+// Add unit tests for staking module
