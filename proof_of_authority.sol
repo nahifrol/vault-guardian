@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Refactor multi-asset token management
 // Improve contract verification speed
+// Fix ERC-721 contract issues with transfers
