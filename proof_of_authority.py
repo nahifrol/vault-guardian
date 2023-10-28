@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Optimize storage for off-chain data
 // Enhance developer documentation
+// Add support for multiple consensus mechanisms
