@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Update testing framework for Solidity
 // Add batch processing for transactions
+// Add slashing mechanism for malicious actors
