@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Improve contract creation process
 // Add support for decentralized auctions
+// Improve contract interaction via APIs
