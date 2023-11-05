@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Optimize hashing algorithm
 // Improve gas estimation for transactions
+// Fix race condition in staking pool
