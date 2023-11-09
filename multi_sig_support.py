@@ -3,3 +3,4 @@
 // Implement price feed oracles for tokens
 // Add multi-chain governance support
 // Fix issues in multi-token smart contracts
+// Add new RPC endpoint
