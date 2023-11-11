@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Add support for Layer-2 solutions
 // Refactor smart contract testing framework
+// Improve on-chain governance systems
