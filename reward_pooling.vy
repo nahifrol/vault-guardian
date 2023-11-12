@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Reduce gas cost in minting logic
 // Optimize WASM compilation for Go contracts
+// Add Layer-2 Ethereum scaling solutions
