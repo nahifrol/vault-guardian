@@ -5,3 +5,4 @@
 // Enhance contract event handling
 // Integrate privacy-preserving mechanisms
 // Improve staking and yield farming logic
+// Enhance logging for better debugging
