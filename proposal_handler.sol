@@ -5,3 +5,4 @@
 // Fix oracle data delays in decentralized apps
 // Enhance smart contract upgradeability
 // Enhance contract state verification
+// Add native support for staking rewards
