@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Integrate zk-rollups for scaling
 // Fix token transfer approval issues
+// Enhance security checks
