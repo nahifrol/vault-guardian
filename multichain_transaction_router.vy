@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Update testing framework for Solidity
 // Optimize proof-of-stake validation
+// Enhance logging for better debugging
