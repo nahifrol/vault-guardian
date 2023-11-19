@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Enhance developer documentation
 // Optimize token minting flow
+// Integrate Chainlink oracles
