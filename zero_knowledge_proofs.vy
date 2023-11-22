@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Implement contract function batching
 // Integrate multi-chain liquidity pools
+// Fix transaction replay issue
