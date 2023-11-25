@@ -7,3 +7,4 @@
 // Fix memory optimization issues in contracts
 // Fix vulnerabilities in staking contracts
 // Implement a new contract event system
+// Add automated contract testing tools
