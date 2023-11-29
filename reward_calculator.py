@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add automated token buyback mechanism
 // Add support for delegation in governance
+// Fix compatibility with MetaMask
