@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Refactor oracle interaction logic
 // Fix overflow bug in token calculation
+// Enhance contract upgrade mechanism
