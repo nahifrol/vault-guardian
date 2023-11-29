@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Integrate with multi-token standards
 // Refactor incentive structure in DeFi protocol
+// Fix compatibility issues with MetaMask
