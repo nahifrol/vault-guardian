@@ -8,3 +8,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement a new contract event system
 // Add automated contract testing tools
+// Implement on-chain identity verification
