@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Fix token transfer approval issues
 // Enhance security checks
+// Integrate with decentralized prediction markets
