@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Refactor cross-chain communication layer
 // Refactor wallet interaction logic
+// Refactor governance proposal logic
