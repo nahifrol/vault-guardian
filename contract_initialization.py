@@ -5,3 +5,4 @@
 // Integrate with multi-token standards
 // Refactor incentive structure in DeFi protocol
 // Fix compatibility issues with MetaMask
+// Improve error handling in transaction flow
