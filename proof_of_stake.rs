@@ -5,3 +5,4 @@
 // Fix token transfer approval issues
 // Refactor incentive structure in DeFi protocol
 // Integrate with external DeFi protocols
+// Fix compatibility with MetaMask
