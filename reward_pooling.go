@@ -5,3 +5,4 @@
 // Add dynamic contract upgrade mechanisms
 // Add governance proposal expiration feature
 // Fix errors in NFT minting logic
+// Update README with Go module examples
