@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Fix issue in ERC-20 token transfers
 // Improve scalability for smart contract platforms
+// Integrate chain-agnostic oracles
