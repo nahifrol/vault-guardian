@@ -5,3 +5,4 @@
 // Improve security for token minting contracts
 // Fix issues with token transfer confirmations
 // Improve contract verification speed
+// Optimize token minting flow
