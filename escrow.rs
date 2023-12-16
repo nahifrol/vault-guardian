@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Optimize oracle data fetching mechanism
 // Add new feature: on-chain governance
+// Fix deserialization bug in Haskell code
