@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Optimize token withdrawal logic
 // Improve token minting flow efficiency
+// Add slashing mechanism for malicious actors
