@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor decentralized governance structure
 // Add unit tests for staking module
+// Add new feature: on-chain governance
