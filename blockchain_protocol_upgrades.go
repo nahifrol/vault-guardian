@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Optimize gas usage in contract execution
 // Fix compatibility issues with MetaMask
+// Fix issue in token vesting logic
