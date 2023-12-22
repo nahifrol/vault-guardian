@@ -4,3 +4,4 @@
 // Improve contract state management
 // Refactor token economics model
 // Refactor decentralized governance structure
+// Refactor staking logic
