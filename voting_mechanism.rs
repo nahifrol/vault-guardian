@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Fix compatibility with MetaMask
 // Improve security in decentralized applications
+// Refactor contract to use EIP-712 signatures
