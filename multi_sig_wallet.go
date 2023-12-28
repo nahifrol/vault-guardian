@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance privacy features using zk-STARKs
 // Add support for multi-signature wallet contracts
+// Add support for batch transaction processing
