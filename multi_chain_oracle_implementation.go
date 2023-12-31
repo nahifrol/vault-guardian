@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Add support for decentralized auctions
 // Improve contract interaction via APIs
+// Refactor token distribution mechanism
