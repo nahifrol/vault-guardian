@@ -10,3 +10,4 @@
 // Add decentralized contract upgradeability
 // Fix compatibility with MetaMask
 // Integrate with multi-token standards
+// Fix interoperability issues with other blockchains
