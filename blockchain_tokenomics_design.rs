@@ -3,3 +3,4 @@
 // Improve oracle data validation mechanisms
 // Code cleanup and documentation update
 // Improve contract auditing tools
+// Fix interoperability issues with other blockchains
