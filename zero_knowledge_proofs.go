@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Optimize hashing algorithm
 // Implement on-chain identity verification
+// Improve gas estimation for transactions
