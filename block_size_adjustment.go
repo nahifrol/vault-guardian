@@ -9,3 +9,4 @@
 // Refactor wallet interaction logic
 // Refactor governance proposal logic
 // Optimize decentralized application performance
+// Add new feature: on-chain governance
