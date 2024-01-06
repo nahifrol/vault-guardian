@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Enhance contract state verification
 // Add native support for staking rewards
+// Improve decentralized lending contract flexibility
