@@ -4,3 +4,4 @@
 // Optimize token withdrawal logic
 // Improve token minting flow efficiency
 // Add slashing mechanism for malicious actors
+// Implement adaptive block size for Ethereum
