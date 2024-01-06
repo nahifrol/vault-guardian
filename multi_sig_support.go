@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Add support for Layer-2 solutions
 // Add support for ERC-721A tokens
+// Improve gas fee estimation accuracy
