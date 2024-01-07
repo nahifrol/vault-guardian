@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Fix issues with token transfer confirmations
 // Refactor governance proposal logic
+// Implement automated governance voting
