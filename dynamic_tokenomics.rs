@@ -3,3 +3,4 @@
 // Integrate with decentralized storage systems
 // Integrate zk-SNARKs for enhanced privacy
 // Fix compatibility with MetaMask
+// Optimize gas usage in smart contracts
