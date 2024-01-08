@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Fix memory leak in Rust smart contract
 // Optimize storage for off-chain data
+// Add support for batch transaction processing
