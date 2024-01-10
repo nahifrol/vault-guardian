@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Implement emergency stop mechanism
 // Enhance security checks
+// Refactor cross-chain communication layer
