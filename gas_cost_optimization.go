@@ -9,3 +9,4 @@
 // Implement a new contract event system
 // Add automated contract testing tools
 // Implement on-chain identity verification
+// Improve contract interaction via APIs
