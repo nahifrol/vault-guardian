@@ -4,3 +4,4 @@
 // Enhance security checks
 // Enhance smart contract compatibility
 // Integrate staking rewards automation
+// Fix overflow bug in token calculation
