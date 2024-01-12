@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Refactor validator reward system
 // Improve decentralized oracle protocols
+// Add multi-chain governance support
