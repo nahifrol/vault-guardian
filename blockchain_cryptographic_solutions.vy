@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Improve on-chain governance systems
 // Fix interoperability issues with other blockchains
+// Add support for ERC-721A tokens
