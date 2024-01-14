@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Add non-fungible token (NFT) support
 // Integrate privacy-enhancing smart contracts
+// Fix edge case in unstaking logic
