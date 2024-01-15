@@ -2,3 +2,4 @@
 // Enhance contract state verification
 // Enhance security checks
 // Improve smart contract code modularity
+// Fix issue in token vesting logic
