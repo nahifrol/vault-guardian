@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix compatibility issues with MetaMask
 // Improve error handling in transaction flow
+// Add multi-sig wallet functionality
