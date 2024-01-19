@@ -7,3 +7,4 @@
 // Improve multi-chain contract deployment
 // Optimize proof-of-stake validation
 // Integrate with decentralized prediction markets
+// Add support for zk-SNARKs in smart contracts
