@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Improve gas fee estimation accuracy
 // Add support for decentralized marketplaces
+// Improve scalability for smart contract platforms
