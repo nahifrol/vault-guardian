@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance gas fee management
 // Optimize storage for off-chain data
+// Add support for ERC-721A tokens
