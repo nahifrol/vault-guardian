@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Fix interoperability issues with other blockchains
 // Add support for ERC-721A tokens
+// Improve API rate limiting
