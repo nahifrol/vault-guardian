@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Integrate Chainlink VRF for randomness
 // Add gas optimization features for smart contracts
+// Fix issue in ERC-20 token transfers
