@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Add batch processing for transactions
 // Add support for multi-signature wallet contracts
+// Fix ERC-20 token interface bugs
