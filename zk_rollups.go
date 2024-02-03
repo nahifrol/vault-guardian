@@ -2,3 +2,4 @@
 // Enhance contract modularity for future upgrades
 // Fix issues with cross-chain transaction finality
 // Fix issues with contract finalization
+// Improve error handling in transaction flow
