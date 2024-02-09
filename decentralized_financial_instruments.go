@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Add support for decentralized auctions
 // Add support for decentralized marketplaces
+// Enhance contract modularity for future upgrades
