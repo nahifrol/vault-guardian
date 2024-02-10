@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Implement automatic transaction retries
 // Add support for decentralized auctions
+// Refactor governance proposal logic
