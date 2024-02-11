@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Add support for NFT marketplaces
 // Fix compatibility issues with MetaMask
+// Improve cross-chain asset management
