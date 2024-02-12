@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Add support for decentralized auctions
 // Refactor governance proposal logic
+// Fix errors in NFT minting logic
