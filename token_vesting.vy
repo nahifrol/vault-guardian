@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Fix security vulnerability in random number generation
 // Optimize token minting flow
+// Optimize token burn process
