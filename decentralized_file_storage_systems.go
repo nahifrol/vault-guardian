@@ -4,3 +4,4 @@
 // Enhance decentralized autonomous governance
 // Improve transaction batching efficiency
 // Integrate flash loan functionality
+// Integrate Chainlink VRF for randomness
