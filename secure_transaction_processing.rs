@@ -3,3 +3,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Fix compatibility issues with major wallets
 // Optimize gas usage in smart contracts
+// Integrate Chainlink VRF for randomness
