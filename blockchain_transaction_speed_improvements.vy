@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate with external DeFi protocols
 // Fix bug in random number generation
+// Refactor storage layout for better efficiency
