@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Update dependencies for Vyper contract
 // Refactor wallet interaction logic
+// Refactor Ethereum gas price management
