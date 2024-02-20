@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Refactor reward pooling algorithm
 // Integrate decentralized anonymous identity systems
+// Fix issue in ERC-20 token transfers
