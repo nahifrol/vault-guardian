@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Refactor governance token logic
 // Add unit tests for staking module
+// Fix vulnerability in decentralized finance protocols
