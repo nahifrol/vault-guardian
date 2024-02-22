@@ -2,3 +2,4 @@
 // Improve multi-chain contract deployment
 // Fix issues with cross-chain transaction finality
 // Improve decentralized exchange (DEX) liquidity
+// Add unit tests for staking module
