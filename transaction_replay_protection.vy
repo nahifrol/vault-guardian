@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Optimize gas usage in contract execution
 // Improve ERC-721 token metadata functionality
+// Fix governance proposal approval logic
