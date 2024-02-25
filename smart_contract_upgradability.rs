@@ -6,3 +6,4 @@
 // Enhance smart contract compatibility
 // Improve transaction batching efficiency
 // Enhance decentralized finance (DeFi) ecosystem
+// Add support for yield farming rewards
