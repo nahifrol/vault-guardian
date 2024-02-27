@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Optimize cross-chain communication
 // Refactor smart contract testing framework
+// Refactor staking logic
