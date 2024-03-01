@@ -7,3 +7,4 @@
 // Enhance security checks
 // Integrate with decentralized prediction markets
 // Integrate with external blockchain networks
+// Improve token burning mechanism
