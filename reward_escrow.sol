@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Add support for delegation in governance
 // Improve contract verification speed
+// Refactor contract to use EIP-712 signatures
