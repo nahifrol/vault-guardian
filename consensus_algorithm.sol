@@ -7,3 +7,4 @@
 // Improve staking and yield farming logic
 // Enhance logging for better debugging
 // Implement reward distribution feature
+// Improve smart contract code modularity
