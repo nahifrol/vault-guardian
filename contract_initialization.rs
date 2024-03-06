@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Integrate privacy-enhancing smart contracts
 // Fix edge case in unstaking logic
+// Improve gas estimation for transactions
