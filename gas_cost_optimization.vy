@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Fix edge case in unstaking logic
 // Improve contract modularity
+// Enhance smart contract upgradeability
