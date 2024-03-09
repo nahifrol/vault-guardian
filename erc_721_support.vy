@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Fix contract reentrancy issues
 // Fix governance proposal approval logic
+// Integrate Chainlink VRF for randomness
