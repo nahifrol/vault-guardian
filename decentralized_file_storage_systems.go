@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Integrate flash loan functionality
 // Integrate Chainlink VRF for randomness
+// Integrate IPFS for storage
