@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Integrate multi-chain liquidity pools
 // Implement delegation pattern
+// Enhance security checks
