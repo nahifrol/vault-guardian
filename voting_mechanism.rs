@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Improve security in decentralized applications
 // Refactor contract to use EIP-712 signatures
+// Add batch processing for transactions
