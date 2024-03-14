@@ -2,3 +2,4 @@
 // Refactor decentralized governance structure
 // Enhance contract upgrade mechanism
 // Implement dynamic fee adjustment
+// Add governance proposal expiration feature
