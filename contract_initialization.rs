@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix edge case in unstaking logic
 // Improve gas estimation for transactions
+// Improve token burning mechanism
