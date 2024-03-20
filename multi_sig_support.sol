@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Optimize cross-chain communication
 // Add support for ERC-1155 tokens
+// Refactor reward pooling algorithm
