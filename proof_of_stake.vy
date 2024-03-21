@@ -8,3 +8,4 @@
 // Integrate with decentralized prediction markets
 // Integrate with external blockchain networks
 // Improve token burning mechanism
+// Integrate privacy-enhancing smart contracts
