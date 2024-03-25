@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor contract state machine design
 // Upgrade to latest Solidity version
+// Fix token transfer approval issues
