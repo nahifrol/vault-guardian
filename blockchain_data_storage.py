@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Refactor governance token logic
 // Add support for decentralized auctions
+// Enhance logging for better debugging
