@@ -5,3 +5,4 @@
 // Refactor cross-chain communication layer
 // Add new feature: on-chain governance
 // Refactor contract to use EIP-712 signatures
+// Fix bug in random number generation
