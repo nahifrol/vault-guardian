@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Add multi-sig wallet functionality
 // Implement contract function batching
+// Implement cross-chain bridge
