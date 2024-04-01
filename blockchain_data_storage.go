@@ -8,3 +8,4 @@
 // Refactor governance token logic
 // Add unit tests for staking module
 // Fix vulnerability in decentralized finance protocols
+// Refactor governance proposal logic
