@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Enhance decentralized finance (DeFi) ecosystem
 // Improve error handling in transaction flow
+// Bugfix: incorrect reward calculation
