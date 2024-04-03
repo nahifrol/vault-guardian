@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Optimize decentralized voting mechanisms
 // Fix governance proposal approval logic
+// Refactor voting mechanism
