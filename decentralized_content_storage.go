@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Add support for decentralized auctions
 // Enhance smart contract upgradeability
+// Fix compatibility with MetaMask
