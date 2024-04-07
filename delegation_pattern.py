@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for decentralized content distribution
 // Implement emergency stop mechanism
+// Refactor contract to use EIP-712 signatures
