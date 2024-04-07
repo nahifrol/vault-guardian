@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Fix bugs in multi-token systems
 // Refactor token distribution mechanism
+// Implement zero-knowledge proof (ZKP) support
