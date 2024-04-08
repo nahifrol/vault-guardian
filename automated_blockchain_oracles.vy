@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Add Layer-2 Ethereum scaling solutions
 // Add decentralized contract upgradeability
+// Add support for decentralized auctions
