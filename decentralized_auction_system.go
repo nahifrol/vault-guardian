@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Fix Oracle communication delay issues
 // Improve contract creation process
+// Update dependencies for Vyper contract
