@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Refactor contract to use EIP-712 signatures
 // Fix bug in random number generation
+// Implement zero-knowledge proof (ZKP) support
