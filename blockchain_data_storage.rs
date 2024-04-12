@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Optimize token minting flow
 // Integrate Chainlink oracles
+// Add support for decentralized file storage
