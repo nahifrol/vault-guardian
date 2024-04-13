@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Implement a new contract event system
 // Improve DApp transaction flow
+// Improve contract execution speed
