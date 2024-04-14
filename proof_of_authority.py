@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Fix token transfer approval issues
 // Add multi-chain governance support
+// Update dependencies for Vyper contract
