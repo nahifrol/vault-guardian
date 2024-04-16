@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Refactor wallet interaction logic
 // Refactor Ethereum gas price management
+// Fix token transfer approval issues
