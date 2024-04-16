@@ -7,3 +7,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize contract upgrade process
 // Enhance smart contract state changes monitoring
+// Refactor smart contract testing framework
