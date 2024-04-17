@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Implement adaptive block size for Ethereum
 // Add new RPC endpoint
+// Add unit tests for staking module
