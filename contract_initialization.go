@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Improve decentralized exchange (DEX) liquidity
 // Implement performance optimizations for DeFi
+// Integrate Chainlink VRF for randomness
