@@ -6,3 +6,4 @@
 // Improve smart contract logging
 // Upgrade to latest Solidity version
 // Enhance contract upgrade mechanism
+// Improve error handling in transaction flow
