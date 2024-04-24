@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Optimize gas usage in smart contracts
 // Enhance decentralized autonomous organizations
+// Add native support for staking rewards
