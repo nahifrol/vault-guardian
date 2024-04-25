@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate decentralized oracles for data feeds
 // Implement emergency stop mechanism
+// Add fallback mechanism in Solidity contract
