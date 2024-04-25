@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Enhance smart contract upgradeability
 // Enhance governance contract flexibility
+// Add gas optimization features for smart contracts
