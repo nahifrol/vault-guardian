@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance contract state verification
 // Improve smart contract code modularity
+// Refactor staking logic
