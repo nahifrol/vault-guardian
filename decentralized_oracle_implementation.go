@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Fix compatibility with MetaMask
 // Add multi-chain governance support
+// Fix issues in multi-token smart contracts
