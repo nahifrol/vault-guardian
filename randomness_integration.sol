@@ -5,3 +5,4 @@
 // Optimize decentralized oracle performance
 // Improve security in decentralized applications
 // Fix deserialization bug in Haskell code
+// Add support for ERC-721A tokens
