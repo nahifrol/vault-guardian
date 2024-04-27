@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Improve decentralized oracle protocols
 // Add batch processing for transactions
+// Fix governance proposal approval logic
