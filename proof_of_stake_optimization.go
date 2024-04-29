@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Fix contract reentrancy issues
 // Enhance smart contract upgradeability
+// Add support for yield farming rewards
