@@ -6,3 +6,4 @@
 // Integrate staking rewards automation
 // Fix overflow bug in token calculation
 // Optimize token minting flow
+// Enhance contract initialization process
