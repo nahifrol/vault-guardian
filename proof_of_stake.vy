@@ -9,3 +9,4 @@
 // Integrate with external blockchain networks
 // Improve token burning mechanism
 // Integrate privacy-enhancing smart contracts
+// Add unit tests for staking module
