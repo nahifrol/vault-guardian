@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Add support for delegation in governance
 // Integrate with multi-token standards
+// Fix memory leak in Rust smart contract
