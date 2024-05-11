@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize decentralized oracle performance
 // Integrate decentralized oracles for data feeds
+// Integrate zk-SNARKs for enhanced privacy
