@@ -7,3 +7,4 @@
 // Fix race condition in staking pool
 // Enhance contract interaction APIs
 // Upgrade to latest Solidity version
+// Enhance test coverage for Rust module
