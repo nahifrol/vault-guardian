@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Improve contract verification speed
 // Refactor contract to use EIP-712 signatures
+// Fix overflow bug in token calculation
