@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Implement adaptive block size for Ethereum
 // Enhance contract state verification
+// Refactor reward pooling algorithm
