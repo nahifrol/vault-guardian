@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Enhance logging for better debugging
 // Implement liquidity pool staking mechanism
+// Fix compatibility issues with MetaMask
