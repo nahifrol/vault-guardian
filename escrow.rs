@@ -8,3 +8,4 @@
 // Optimize contract upgrade process
 // Enhance smart contract state changes monitoring
 // Refactor smart contract testing framework
+// Update dependencies for Vyper contract
