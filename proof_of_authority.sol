@@ -6,3 +6,4 @@
 // Improve contract verification speed
 // Fix ERC-721 contract issues with transfers
 // Improve contract state management
+// Refactor contract to use EIP-712 signatures
