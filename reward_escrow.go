@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Fix data consistency issues in smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Fix issue in token vesting logic
