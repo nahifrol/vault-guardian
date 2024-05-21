@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor reward pooling algorithm
 // Fix issues with contract finalization
+// Add slashing mechanism for malicious actors
