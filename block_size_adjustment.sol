@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Add support for zk-SNARKs in smart contracts
 // Integrate IPFS for storage
+// Improve gas estimation for transactions
