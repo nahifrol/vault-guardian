@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement time-locked contract execution
 // Integrate Chainlink VRF for randomness
+// Add support for NFT marketplaces
