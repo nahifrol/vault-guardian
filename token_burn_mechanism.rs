@@ -3,3 +3,4 @@
 // Enhance contract event handling
 // Refactor contract state machine design
 // Optimize token minting flow
+// Improve staking pool reward management
