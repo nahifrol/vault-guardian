@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Improve token burning mechanism
 // Add dynamic contract fees
+// Improve contract modularity
