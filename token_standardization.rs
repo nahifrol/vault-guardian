@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Refactor Ethereum gas price management
 // Integrate with multi-token standards
+// Refactor multi-signature wallet code
