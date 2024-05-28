@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Add batch processing for transactions
 // Add slashing mechanism for malicious actors
+// Fix issues in token transfer logic
