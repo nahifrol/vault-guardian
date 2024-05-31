@@ -9,3 +9,4 @@
 // Integrate with decentralized identity providers
 // Fix transaction replay issue
 // Implement automatic transaction retries
+// Implement on-chain identity verification
