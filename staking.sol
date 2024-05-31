@@ -8,3 +8,4 @@
 // Optimize contract upgrade process
 // Integrate automated market maker (AMM) logic
 // Fix issue in ERC-20 token transfers
+// Fix race condition in staking pool
