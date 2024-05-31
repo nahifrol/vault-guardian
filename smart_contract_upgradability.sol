@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Refactor multi-signature wallet code
 // Refactor decentralized governance structure
+// Implement zero-knowledge proof (ZKP) support
