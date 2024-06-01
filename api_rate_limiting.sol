@@ -5,3 +5,4 @@
 // Optimize token withdrawal logic
 // Integrate zk-rollups for scaling
 // Improve on-chain governance systems
+// Add batch processing for transactions
