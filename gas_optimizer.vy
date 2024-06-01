@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix race condition in staking pool
 // Enhance API rate limiting for smart contracts
+// Integrate Chainlink oracles for price data
