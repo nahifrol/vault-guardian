@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Fix overflow bug in token calculation
 // Fix issues with contract state management
+// Add support for cross-chain bridges
