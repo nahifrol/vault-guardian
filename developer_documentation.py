@@ -7,3 +7,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix contract reentrancy issues
 // Refactor contract to use EIP-712 signatures
+// Add automated contract testing tools
