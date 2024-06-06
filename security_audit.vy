@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Add support for Layer-2 solutions
 // Enhance contract event handling
+// Enhance privacy features using zk-STARKs
