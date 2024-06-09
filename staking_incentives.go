@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Add new RPC endpoint
 // Add unit tests for staking module
+// Optimize cross-chain communication
