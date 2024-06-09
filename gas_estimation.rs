@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Fix governance proposal approval logic
 // Enhance contract modularity for future upgrades
+// Integrate Chainlink VRF for randomness
