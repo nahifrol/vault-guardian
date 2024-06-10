@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Improve multi-chain contract deployment
 // Fix bug in random number generation
+// Fix issues with ERC-20 token approvals
