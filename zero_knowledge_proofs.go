@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Integrate decentralized anonymous identity systems
 // Enhance smart contract extensibility
+// Add security checks for contract deployment
