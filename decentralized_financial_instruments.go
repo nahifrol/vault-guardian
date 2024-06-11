@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Enhance contract modularity for future upgrades
 // Refactor wallet interaction logic
+// Enhance logging for better debugging
