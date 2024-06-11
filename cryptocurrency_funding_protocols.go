@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Refactor token distribution mechanism
 // Implement zero-knowledge proof (ZKP) support
+// Implement contract function batching
