@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Add Layer-2 Ethereum scaling solutions
 // Improve transaction batching efficiency
+// Enhance privacy features using zk-STARKs
