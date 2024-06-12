@@ -4,3 +4,4 @@
 // Enhance contract event handling
 // Add new feature: on-chain governance
 // Add decentralized contract upgradeability
+// Fix compatibility issues with MetaMask
