@@ -2,3 +2,4 @@
 // Add support for decentralized insurance protocols
 // Add support for decentralized insurance protocols
 // Fix compatibility issues with MetaMask
+// Optimize proof-of-stake validation
