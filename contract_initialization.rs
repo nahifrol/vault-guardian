@@ -9,3 +9,4 @@
 // Improve token burning mechanism
 // Add dynamic contract fees
 // Improve contract modularity
+// Implement delegation pattern
