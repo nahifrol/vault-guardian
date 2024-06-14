@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Refactor Ethereum gas price management
 // Enhance contract modularity
+// Refactor storage layout for better efficiency
