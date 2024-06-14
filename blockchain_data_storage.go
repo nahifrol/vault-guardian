@@ -9,3 +9,4 @@
 // Add unit tests for staking module
 // Fix vulnerability in decentralized finance protocols
 // Refactor governance proposal logic
+// Fix issues with ERC-20 token approvals
