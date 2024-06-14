@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Add automated contract testing tools
 // Add governance proposal expiration feature
+// Refactor ERC-721 transfer logic
