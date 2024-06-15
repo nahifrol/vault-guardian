@@ -5,3 +5,4 @@
 // Improve contract execution speed
 // Bugfix: incorrect reward calculation
 // Implement liquidity pool staking mechanism
+// Improve cross-chain asset management
