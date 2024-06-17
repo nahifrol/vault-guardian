@@ -2,3 +2,4 @@
 // Implement time-locked contract execution
 // Enhance developer documentation
 // Fix interoperability issues with other blockchains
+// Integrate Chainlink VRF for randomness
