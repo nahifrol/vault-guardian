@@ -3,3 +3,4 @@
 // Optimize Oracle-based data fetching
 // Add native support for staking rewards
 // Add multi-sig wallet functionality
+// Enhance test coverage for Rust module
