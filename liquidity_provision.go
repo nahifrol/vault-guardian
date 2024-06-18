@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Fix issue in token vesting logic
 // Optimize storage for off-chain data
+// Update README with Go module examples
