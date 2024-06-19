@@ -11,3 +11,4 @@
 // Integrate privacy-enhancing smart contracts
 // Add unit tests for staking module
 // Fix issues with contract finalization
+// Optimize gas usage in smart contracts
