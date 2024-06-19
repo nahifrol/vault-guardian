@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Integrate decentralized oracles for data feeds
 // Refactor storage layout for better efficiency
+// Refactor validator reward system
