@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Refactor reward pooling algorithm
 // Fix contract reentrancy issues
+// Integrate with external DeFi protocols
