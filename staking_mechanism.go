@@ -4,3 +4,4 @@
 // Improve decentralized oracle protocols
 // Add multi-chain governance support
 // Improve transaction batching efficiency
+// Improve decentralized identity (DID) systems
