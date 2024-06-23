@@ -5,3 +5,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Implement liquidity pool staking mechanism
 // Add support for decentralized file storage
+// Add support for ERC-721A tokens
