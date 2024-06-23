@@ -5,3 +5,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Implement delegation pattern
 // Fix token transfer approval issues
+// Add support for multiple consensus mechanisms
