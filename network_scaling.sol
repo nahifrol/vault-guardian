@@ -4,3 +4,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix compatibility issues with MetaMask
 // Fix bugs in decentralized exchange routing
+// Fix overflow bug in token calculation
