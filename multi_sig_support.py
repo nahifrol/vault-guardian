@@ -13,3 +13,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate IPFS for storage
 // Add native support for staking mechanisms
+// Improve on-chain governance systems
