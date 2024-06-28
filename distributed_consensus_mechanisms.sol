@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Fix memory optimization issues in contracts
 // Add support for NFT marketplaces
+// Refactor contract to use EIP-712 signatures
