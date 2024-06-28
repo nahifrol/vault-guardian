@@ -6,3 +6,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Improve transaction batching efficiency
 // Enhance privacy features using zk-STARKs
+// Improve token burning mechanism
