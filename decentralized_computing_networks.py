@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Optimize contract upgrade process
 // Update dependencies for Vyper contract
+// Fix issues with token vesting contracts
