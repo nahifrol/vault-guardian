@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Add support for decentralized auctions
 // Fix ERC-20 token interface bugs
+// Add governance proposal expiration feature
