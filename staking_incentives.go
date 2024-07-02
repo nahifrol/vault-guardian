@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Add unit tests for staking module
 // Optimize cross-chain communication
+// Fix contract reentrancy issues
