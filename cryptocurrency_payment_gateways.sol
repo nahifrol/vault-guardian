@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance token swap functionality
 // Improve oracle data validation mechanisms
+// Refactor reward pooling algorithm
