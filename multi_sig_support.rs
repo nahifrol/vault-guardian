@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Enhance contract upgrade process
 // Refactor voting mechanism
+// Integrate IPFS for storage
