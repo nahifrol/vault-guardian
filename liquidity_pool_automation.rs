@@ -2,3 +2,4 @@
 // Enhance transaction monitoring
 // Upgrade to latest Solidity version
 // Refactor contract state machine design
+// Refactor wallet interaction logic
