@@ -6,3 +6,4 @@
 // Add support for decentralized marketplaces
 // Optimize Oracle-based data fetching
 // Code cleanup and documentation update
+// Enhance privacy features using zk-STARKs
