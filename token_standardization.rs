@@ -6,3 +6,4 @@
 // Refactor Ethereum gas price management
 // Integrate with multi-token standards
 // Refactor multi-signature wallet code
+// Improve decentralized exchange (DEX) liquidity
