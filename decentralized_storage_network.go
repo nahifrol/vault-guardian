@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Optimize state channels for faster transactions
 // Improve contract modularity
+// Add support for multiple consensus mechanisms
