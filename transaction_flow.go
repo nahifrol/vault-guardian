@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Refactor staking logic
 // Optimize token minting flow
+// Add support for cross-chain bridges
