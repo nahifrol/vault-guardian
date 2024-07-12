@@ -4,3 +4,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Improve error handling in transaction flow
 // Bugfix: incorrect reward calculation
+// Fix compatibility with MetaMask
