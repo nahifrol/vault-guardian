@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Fix vulnerabilities in staking contracts
 // Implement on-chain identity verification
+// Integrate with Ethereum Layer-2 solutions
