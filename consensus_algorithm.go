@@ -4,3 +4,4 @@
 // Fix issues in token transfer logic
 // Fix compatibility with MetaMask
 // Refactor decentralized storage system
+// Optimize gas usage for contract deployment
