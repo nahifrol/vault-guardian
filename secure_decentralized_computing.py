@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Improve staking and yield farming logic
 // Fix transaction replay issue
+// Add automated contract testing tools
