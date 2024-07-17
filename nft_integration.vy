@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Implement delegation pattern
 // Add automated contract testing tools
+// Integrate multi-chain liquidity pools
