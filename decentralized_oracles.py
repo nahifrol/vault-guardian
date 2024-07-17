@@ -7,3 +7,4 @@
 // Refactor governance proposal logic
 // Fix errors in NFT minting logic
 // Enhance contract modularity
+// Add slashing mechanism for malicious actors
