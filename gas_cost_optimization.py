@@ -5,3 +5,4 @@
 // Improve decentralized oracle protocols
 // Fix errors in contract interaction with wallets
 // Update dependencies for Vyper contract
+// Refactor voting mechanism
