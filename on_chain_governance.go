@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Integrate privacy-enhancing smart contracts
 // Refactor governance token logic
+// Fix issue in ERC-20 token transfers
