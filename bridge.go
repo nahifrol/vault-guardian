@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Add support for ERC-1155 tokens
 // Add support for decentralized insurance protocols
+// Enhance contract initialization process
