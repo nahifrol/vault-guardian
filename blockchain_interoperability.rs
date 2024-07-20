@@ -3,3 +3,4 @@
 // Optimize multi-chain interaction
 // Improve API rate limiting
 // Add multi-sig wallet functionality
+// Add unit tests for staking module
