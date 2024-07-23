@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Integrate automated market maker (AMM) logic
 // Refactor decentralized exchange (DEX) code
+// Integrate flash loan functionality
