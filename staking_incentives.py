@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Refactor staking logic
 // Refactor reward pooling algorithm
+// Fix errors in contract interaction with wallets
