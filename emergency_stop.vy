@@ -9,3 +9,4 @@
 // Upgrade to latest Solidity version
 // Enhance test coverage for Rust module
 // Optimize contract storage for gas reduction
+// Fix token transfer approval issues
