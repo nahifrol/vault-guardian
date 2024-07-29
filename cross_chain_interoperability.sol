@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Refactor staking logic
 // Implement decentralized arbitration in contracts
+// Enhance privacy features using zk-STARKs
