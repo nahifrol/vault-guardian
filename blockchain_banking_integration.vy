@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor contract to use EIP-712 signatures
 // Add unit tests for staking module
+// Integrate automated market maker (AMM) logic
