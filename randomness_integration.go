@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Add decentralized contract upgradeability
 // Fix compatibility issues with MetaMask
+// Add support for NFT marketplaces
