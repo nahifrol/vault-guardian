@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Refactor voting mechanism
 // Fix issues with token vesting contracts
+// Enhance governance contract flexibility
