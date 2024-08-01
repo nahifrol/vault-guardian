@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Fix interoperability issues with other blockchains
 // Fix edge case in unstaking logic
+// Enhance smart contract state changes monitoring
