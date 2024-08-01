@@ -3,3 +3,4 @@
 // Fix data consistency issues in smart contracts
 // Enhance smart contract upgradeability
 // Improve security in decentralized applications
+// Add support for ERC-721A tokens
