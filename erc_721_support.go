@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Fix scalability issues with smart contracts
 // Fix errors in contract interaction with wallets
+// Refactor wallet interaction logic
