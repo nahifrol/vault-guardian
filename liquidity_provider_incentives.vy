@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix type mismatch in Haskell smart contract
 // Improve smart contract logging
+// Refactor decentralized governance structure
