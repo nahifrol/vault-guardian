@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate IPFS for storage
 // Improve gas estimation for transactions
+// Refactor smart contract testing framework
