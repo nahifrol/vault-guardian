@@ -2,3 +2,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate automated market maker (AMM) logic
 // Refactor decentralized exchange (DEX) code
+// Refactor incentive structure in DeFi protocol
