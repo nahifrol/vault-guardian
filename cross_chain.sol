@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Improve scalability for smart contract platforms
 // Integrate staking rewards automation
+// Add support for ERC-1155 tokens
