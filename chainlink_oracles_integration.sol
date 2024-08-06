@@ -2,3 +2,4 @@
 // Enhance test coverage for Rust module
 // Integrate automated market maker (AMM) logic
 // Update smart contract tests
+// Add support for decentralized marketplaces
