@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Fix ERC-721 contract issues with transfers
 // Fix transaction replay issue
+// Fix interoperability issues with other blockchains
