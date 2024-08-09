@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Bugfix: incorrect reward calculation
 // Improve contract modularity
+// Add support for batch transaction processing
