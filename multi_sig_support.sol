@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Optimize contract upgrade process
 // Refactor smart contract testing framework
+// Improve token burning mechanism
