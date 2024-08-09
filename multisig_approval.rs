@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Add slashing mechanism for malicious actors
 // Fix issues in token transfer logic
+// Enhance smart contract upgradeability
