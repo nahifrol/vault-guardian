@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Add automated contract testing tools
 // Enhance contract event handling
+// Integrate zk-rollups for scaling
