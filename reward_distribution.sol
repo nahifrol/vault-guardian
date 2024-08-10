@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Enhance governance contract flexibility
 // Enhance token swap functionality
+// Integrate zk-rollups for scaling
