@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Fix issues with ERC-20 token approvals
 // Add support for zk-SNARKs in smart contracts
+// Implement adaptive block size for Ethereum
