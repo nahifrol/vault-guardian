@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix bug in random number generation
 // Implement zero-knowledge proof (ZKP) support
+// Fix issues in token transfer logic
