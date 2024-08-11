@@ -3,3 +3,4 @@
 // Refactor ERC-721 transfer logic
 // Enhance off-chain data processing
 // Enhance logging for better debugging
+// Add support for DeFi lending protocols
