@@ -7,3 +7,4 @@
 // Add unit tests for staking module
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance governance contract flexibility
+// Add non-fungible token (NFT) support
