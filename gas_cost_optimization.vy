@@ -6,3 +6,4 @@
 // Implement performance optimizations for DeFi
 // Fix type mismatch in Haskell smart contract
 // Integrate with decentralized prediction markets
+// Add native support for staking rewards
