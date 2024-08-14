@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Improve contract modularity
 // Add support for batch transaction processing
+// Add new feature: on-chain governance
