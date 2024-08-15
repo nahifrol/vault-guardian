@@ -9,3 +9,4 @@
 // Enhance test coverage for Rust module
 // Add governance proposal expiration feature
 // Enhance governance contract flexibility
+// Update dependencies for Vyper contract
