@@ -10,3 +10,4 @@
 // Refactor smart contract testing framework
 // Update dependencies for Vyper contract
 // Fix interoperability issues with other blockchains
+// Integrate chain-agnostic oracles
