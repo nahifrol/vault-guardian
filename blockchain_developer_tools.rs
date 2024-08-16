@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement liquidity pool staking mechanism
 // Implement contract function batching
+// Refactor smart contract testing framework
