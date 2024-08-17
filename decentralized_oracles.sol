@@ -7,3 +7,4 @@
 // Refactor validator reward system
 // Optimize decentralized oracle performance
 // Enhance contract upgrade process
+// Optimize storage for off-chain data
