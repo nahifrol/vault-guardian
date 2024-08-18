@@ -8,3 +8,4 @@
 // Add support for ERC-721A tokens
 // Fix wallet interaction issues in DeFi protocols
 // Optimize decentralized application performance
+// Add support for decentralized insurance protocols
