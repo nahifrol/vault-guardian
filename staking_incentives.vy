@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Update dependencies for Vyper contract
 // Enhance security checks
+// Enhance logging for better debugging
