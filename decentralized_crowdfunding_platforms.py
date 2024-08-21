@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize contract upgrade process
 // Add support for fractional token ownership
+// Fix vulnerabilities in staking contracts
