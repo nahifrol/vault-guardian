@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Bugfix: incorrect reward calculation
 // Add native support for staking mechanisms
+// Improve decentralized exchange (DEX) liquidity
