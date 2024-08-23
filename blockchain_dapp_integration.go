@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Add support for multiple consensus mechanisms
 // Refactor contract event emission
+// Improve contract creation process
