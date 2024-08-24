@@ -2,3 +2,4 @@
 // Fix security vulnerability in random number generation
 // Improve smart contract logging
 // Integrate IPFS for storage
+// Add support for zk-SNARKs in smart contracts
