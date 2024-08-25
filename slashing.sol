@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Implement dynamic fee adjustment
 // Optimize contract upgrade process
+// Fix issue with multi-chain transactions
