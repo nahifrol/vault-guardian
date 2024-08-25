@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Enhance smart contract state changes monitoring
 // Bugfix: incorrect reward calculation
+// Fix errors in contract interaction with wallets
