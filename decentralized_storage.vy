@@ -2,3 +2,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate automated market maker (AMM) logic
 // Enhance smart contract state changes monitoring
+// Integrate Chainlink oracles
