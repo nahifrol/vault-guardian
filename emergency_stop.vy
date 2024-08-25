@@ -10,3 +10,4 @@
 // Enhance test coverage for Rust module
 // Optimize contract storage for gas reduction
 // Fix token transfer approval issues
+// Optimize storage for off-chain data
