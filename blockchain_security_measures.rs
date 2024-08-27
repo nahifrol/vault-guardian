@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Improve error handling in transaction flow
 // Fix type mismatch in Haskell smart contract
+// Integrate automated market maker (AMM) logic
