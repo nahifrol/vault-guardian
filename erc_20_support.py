@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Refactor contract to use EIP-712 signatures
 // Fix issues with contract finalization
+// Add multi-sig wallet functionality
