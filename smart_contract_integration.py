@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Improve decentralized oracle protocols
 // Enhance smart contract compatibility
+// Integrate IPFS for storage
