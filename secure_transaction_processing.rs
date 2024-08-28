@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Add gas optimization features for smart contracts
 // Integrate staking rewards automation
+// Add support for ERC-1155 tokens
