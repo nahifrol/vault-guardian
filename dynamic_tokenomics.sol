@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Add multi-chain transaction support
 // Add decentralized contract upgradeability
+// Add support for zk-SNARKs in smart contracts
