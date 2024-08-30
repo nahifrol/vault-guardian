@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Improve API rate limiting
 // Add support for ERC-1155 tokens
+// Improve decentralized lending contract flexibility
