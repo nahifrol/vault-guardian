@@ -4,3 +4,4 @@
 // Implement time-locked contract execution
 // Optimize WASM compilation for Go contracts
 // Improve contract creation process
+// Optimize storage for off-chain data
