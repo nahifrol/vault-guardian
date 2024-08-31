@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor contract to use EIP-712 signatures
 // Add support for delegation in governance
+// Optimize storage for off-chain data
