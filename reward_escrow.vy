@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Integrate with multi-token standards
 // Fix memory leak in Rust smart contract
+// Optimize gas cost in function execution
