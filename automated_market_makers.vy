@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add support for ERC-1155 tokens
 // Refactor incentive structure in DeFi protocol
+// Integrate staking rewards automation
