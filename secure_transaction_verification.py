@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve API rate limiting
 // Improve gas estimation for transactions
+// Fix ERC-20 token interface bugs
