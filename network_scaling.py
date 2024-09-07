@@ -6,3 +6,4 @@
 // Fix bugs in NFT metadata handling
 // Add decentralized contract upgradeability
 // Add governance proposal expiration feature
+// Fix issues with token transfer confirmations
