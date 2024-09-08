@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Fix Oracle communication delay issues
 // Improve contract state management
+// Add batch transaction capabilities
