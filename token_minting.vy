@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve contract creation process
 // Optimize storage for off-chain data
+// Add batch transaction capabilities
