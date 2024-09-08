@@ -3,3 +3,4 @@
 // Implement cross-platform contract compatibility
 // Enhance governance contract flexibility
 // Integrate Chainlink oracles
+// Enhance logging for better debugging
