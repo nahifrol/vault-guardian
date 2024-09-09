@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Enhance contract interaction APIs
 // Implement delegation pattern
+// Integrate automated market maker (AMM) logic
