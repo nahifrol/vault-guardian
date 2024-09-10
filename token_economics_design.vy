@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Enhance security checks
 // Enhance contract modularity for future upgrades
+// Add multi-sig wallet functionality
