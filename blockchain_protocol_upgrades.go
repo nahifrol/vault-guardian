@@ -6,3 +6,4 @@
 // Fix compatibility issues with MetaMask
 // Fix issue in token vesting logic
 // Improve contract state management
+// Fix memory leak in Rust smart contract
