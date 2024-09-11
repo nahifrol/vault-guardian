@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Add non-fungible token (NFT) support
 // Add support for multiple consensus mechanisms
+// Implement automated governance voting
