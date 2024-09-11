@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Update testing framework for Solidity
 // Refactor voting mechanism
+// Refactor cross-chain communication layer
