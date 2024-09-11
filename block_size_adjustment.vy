@@ -8,3 +8,4 @@
 // Fix Oracle communication delay issues
 // Improve contract state management
 // Add batch transaction capabilities
+// Add support for ERC-721A tokens
