@@ -3,3 +3,4 @@
 // Refactor cross-chain communication layer
 // Improve contract execution speed
 // Improve contract auditing tools
+// Add governance proposal expiration feature
