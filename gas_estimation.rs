@@ -6,3 +6,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate Chainlink VRF for randomness
 // Optimize state channels for faster transactions
+// Add multi-sig wallet functionality
