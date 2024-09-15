@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Fix governance proposal approval logic
 // Update dependencies for Vyper contract
+// Fix governance proposal approval logic
