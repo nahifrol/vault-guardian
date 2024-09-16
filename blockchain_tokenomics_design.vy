@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
 // Optimize cross-chain communication
+// Fix issue in token vesting logic
