@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Add fallback mechanism in Solidity contract
 // Add support for delegation in governance
+// Refactor oracle interaction logic
