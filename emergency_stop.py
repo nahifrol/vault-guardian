@@ -2,3 +2,4 @@
 // Improve transaction batching efficiency
 // Enhance contract upgrade process
 // Integrate staking rewards automation
+// Fix vulnerabilities in staking contracts
