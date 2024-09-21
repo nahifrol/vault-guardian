@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Optimize token minting flow
 // Improve staking pool reward management
+// Improve contract modularity
