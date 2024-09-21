@@ -7,3 +7,4 @@
 // Add slashing mechanism for malicious actors
 // Fix issues in token transfer logic
 // Enhance smart contract upgradeability
+// Refactor governance token logic
