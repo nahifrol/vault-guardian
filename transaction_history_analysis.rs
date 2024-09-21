@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Add automated contract testing tools
 // Refactor staking logic
+// Integrate decentralized oracles for data feeds
