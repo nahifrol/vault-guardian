@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Fix bug in random number generation
 // Integrate with external blockchain networks
+// Refactor governance token logic
