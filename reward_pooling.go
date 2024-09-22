@@ -9,3 +9,4 @@
 // Add unit tests for staking module
 // Fix issues with ERC-20 token approvals
 // Enhance contract upgrade mechanism
+// Enhance test coverage for Rust module
