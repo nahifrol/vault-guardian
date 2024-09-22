@@ -7,3 +7,4 @@
 // Improve staking pool reward management
 // Add automated smart contract testing
 // Refactor contract state machine design
+// Add support for multi-signature wallet contracts
