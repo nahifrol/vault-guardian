@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Refactor staking logic
 // Add support for ERC-721A tokens
+// Enhance contract initialization process
