@@ -7,3 +7,4 @@
 // Fix bugs in decentralized exchange routing
 // Improve contract auditing tools
 // Improve smart contract logging
+// Refactor incentive structure in DeFi protocol
