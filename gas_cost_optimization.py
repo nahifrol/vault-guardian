@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Update dependencies for Vyper contract
 // Refactor voting mechanism
+// Update README with Go module examples
