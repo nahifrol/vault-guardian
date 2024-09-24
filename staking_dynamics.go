@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize gas usage for contract deployment
 // Add native support for staking rewards
+// Add support for multiple consensus mechanisms
