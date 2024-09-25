@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Fix compatibility with MetaMask
 // Implement on-chain fee adjustment mechanisms
+// Fix issues in multi-token smart contracts
