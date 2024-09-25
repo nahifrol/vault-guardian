@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix governance proposal approval logic
 // Improve contract creation process
+// Add support for yield farming rewards
