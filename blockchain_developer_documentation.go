@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Code cleanup and documentation update
 // Add support for multiple consensus mechanisms
+// Add multi-sig wallet functionality
