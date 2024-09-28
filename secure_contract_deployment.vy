@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Integrate with decentralized identity providers
 // Refactor contract state machine design
+// Add governance proposal expiration feature
