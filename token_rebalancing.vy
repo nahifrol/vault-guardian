@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance gas fee management
 // Improve contract execution performance
+// Enhance gas fee management
