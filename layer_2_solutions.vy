@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for decentralized credit scoring
 // Integrate Chainlink oracles for price data
+// Integrate with decentralized prediction markets
