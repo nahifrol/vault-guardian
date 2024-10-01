@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Add multi-chain transaction support
 // Fix issues with contract finalization
+// Add new RPC endpoint
