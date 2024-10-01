@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Refactor smart contract testing framework
 // Improve token burning mechanism
+// Refactor decentralized governance structure
