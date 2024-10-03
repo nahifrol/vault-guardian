@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Fix issues with gas optimization in smart contracts
 // Add support for ERC-721A tokens
+// Implement on-chain identity verification
