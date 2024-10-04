@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Fix issue in ERC-20 token transfers
 // Implement a new contract event system
+// Implement delegation pattern
