@@ -7,3 +7,4 @@
 // Improve contract verification speed
 // Optimize token minting flow
 // Fix issues with token transfer confirmations
+// Refactor contract to use EIP-712 signatures
