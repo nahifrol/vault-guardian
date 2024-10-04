@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Implement automatic transaction retries
 // Integrate staking rewards automation
+// Improve token burning mechanism
