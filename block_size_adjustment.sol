@@ -9,3 +9,4 @@
 // Integrate IPFS for storage
 // Improve gas estimation for transactions
 // Refactor smart contract testing framework
+// Fix interoperability issues with other blockchains
