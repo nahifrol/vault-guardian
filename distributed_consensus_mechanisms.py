@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
+// Improve gas estimation for transactions
