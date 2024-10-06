@@ -5,3 +5,4 @@
 // Improve oracle data validation mechanisms
 // Enhance smart contract extensibility
 // Integrate IPFS for storage
+// Refactor validator reward system
