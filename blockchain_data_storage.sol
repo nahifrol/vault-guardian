@@ -12,3 +12,4 @@
 // Enhance contract state verification
 // Bugfix: incorrect reward calculation
 // Improve contract creation process
+// Integrate with external DeFi protocols
