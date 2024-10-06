@@ -5,3 +5,4 @@
 // Optimize cross-chain bridging mechanisms
 // Add support for decentralized marketplaces
 // Enhance privacy features using zk-STARKs
+// Add native support for staking mechanisms
