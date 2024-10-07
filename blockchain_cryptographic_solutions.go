@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor reward pooling algorithm
 // Refactor validator reward system
+// Fix issue with multi-chain transactions
