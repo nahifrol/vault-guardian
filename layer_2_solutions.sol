@@ -4,3 +4,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add unit tests for staking module
 // Add gas optimization features for smart contracts
+// Enhance security checks
