@@ -8,3 +8,4 @@
 // Fix compatibility with MetaMask
 // Add support for Layer-2 solutions
 // Add support for batch transaction processing
+// Improve security for token minting contracts
