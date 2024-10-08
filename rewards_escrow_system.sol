@@ -5,3 +5,4 @@
 // Enhance contract interaction APIs
 // Fix issues with token vesting contracts
 // Add decentralized contract upgradeability
+// Fix overflow bug in token calculation
