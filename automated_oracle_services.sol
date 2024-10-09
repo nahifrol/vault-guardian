@@ -7,3 +7,4 @@
 // Fix compatibility issues with major wallets
 // Optimize decentralized oracle performance
 // Improve staking logic for better rewards
+// Reduce gas cost in minting logic
