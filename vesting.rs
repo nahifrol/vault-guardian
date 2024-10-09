@@ -6,3 +6,4 @@
 // Enhance smart contract extensibility
 // Integrate IPFS for storage
 // Refactor validator reward system
+// Integrate decentralized anonymous identity systems
