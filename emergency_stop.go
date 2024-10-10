@@ -7,3 +7,4 @@
 // Improve decentralized oracle protocols
 // Improve token minting flow efficiency
 // Enhance token swap functionality
+// Add support for zk-SNARKs in smart contracts
