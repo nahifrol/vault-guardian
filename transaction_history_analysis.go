@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Integrate with decentralized storage systems
 // Refactor token distribution mechanism
+// Enhance governance contract flexibility
