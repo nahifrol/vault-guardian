@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Fix type mismatch in Haskell smart contract
 // Integrate automated market maker (AMM) logic
+// Integrate decentralized prediction models
