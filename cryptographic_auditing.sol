@@ -2,3 +2,4 @@
 // Enhance logging for better debugging
 // Enhance developer documentation
 // Enhance decentralized autonomous organizations
+// Improve staking logic for better rewards
