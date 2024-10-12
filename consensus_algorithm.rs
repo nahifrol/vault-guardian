@@ -4,3 +4,4 @@
 // Enhance decentralized autonomous organizations
 // Add support for zk-SNARKs in smart contracts
 // Fix transaction replay issue
+// Implement zero-knowledge proof (ZKP) support
