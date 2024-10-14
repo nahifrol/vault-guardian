@@ -3,3 +3,4 @@
 // Optimize decentralized oracle performance
 // Enhance contract interaction APIs
 // Optimize token minting flow
+// Integrate zk-rollups for scaling
