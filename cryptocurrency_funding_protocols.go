@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Implement contract function batching
 // Fix issues with cross-chain transaction finality
+// Optimize gas usage for contract deployment
