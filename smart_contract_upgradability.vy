@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Optimize multi-chain interaction
 // Optimize hashing algorithm
+// Fix memory leak in Rust smart contract
