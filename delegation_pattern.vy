@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Add native support for staking mechanisms
 // Improve decentralized exchange (DEX) liquidity
+// Refactor validator reward system
