@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize contract upgrade process
 // Fix ERC-721 contract issues with transfers
+// Implement on-chain identity verification
