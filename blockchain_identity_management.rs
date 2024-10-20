@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Fix memory optimization issues in contracts
 // Implement a new contract event system
+// Improve staking pool reward management
