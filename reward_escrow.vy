@@ -6,3 +6,4 @@
 // Integrate with multi-token standards
 // Fix memory leak in Rust smart contract
 // Optimize gas cost in function execution
+// Improve staking logic for better rewards
