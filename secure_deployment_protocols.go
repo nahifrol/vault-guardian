@@ -3,3 +3,4 @@
 // Implement performance optimizations for DeFi
 // Fix deserialization bug in Haskell code
 // Update README with Go module examples
+// Add support for ERC-721A tokens
