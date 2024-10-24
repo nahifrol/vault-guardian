@@ -7,3 +7,4 @@
 // Improve transaction batching efficiency
 // Improve DApp transaction flow
 // Improve decentralized lending contract flexibility
+// Update dependencies for Vyper contract
