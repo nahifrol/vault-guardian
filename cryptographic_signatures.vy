@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Fix overflow bug in token calculation
 // Integrate Chainlink VRF for randomness
+// Enhance test coverage for Rust module
