@@ -10,3 +10,4 @@
 // Add dynamic contract fees
 // Improve contract modularity
 // Implement delegation pattern
+// Add support for NFT marketplaces
