@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement dynamic fee adjustment
 // Improve gas fee estimation accuracy
+// Add support for NFT marketplaces
