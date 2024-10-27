@@ -6,3 +6,4 @@
 // Improve contract state management
 // Improve decentralized identity (DID) systems
 // Enhance security checks
+// Add new feature: on-chain governance
