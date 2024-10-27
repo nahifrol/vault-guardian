@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Add support for yield farming rewards
 // Fix governance proposal approval logic
+// Optimize WASM compilation for Go contracts
