@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance decentralized autonomous governance
 // Improve contract state management
+// Improve DApp transaction flow
