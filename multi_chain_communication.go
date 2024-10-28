@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize proof-of-stake validation
 // Enhance contract interaction APIs
+// Optimize WASM compilation for Go contracts
