@@ -12,3 +12,4 @@
 // Implement on-chain identity verification
 // Integrate IPFS for storage
 // Integrate Chainlink VRF for randomness
+// Implement delegation pattern
