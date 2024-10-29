@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Improve staking pool reward management
 // Optimize multi-chain interaction
+// Fix bugs in multi-token systems
