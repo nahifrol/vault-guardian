@@ -10,3 +10,4 @@
 // Add batch transaction capabilities
 // Add support for ERC-721A tokens
 // Code cleanup and documentation update
+// Integrate decentralized prediction models
