@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Enhance contract modularity for future upgrades
 // Enhance governance contract flexibility
+// Reduce gas cost in minting logic
