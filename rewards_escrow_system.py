@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Optimize token minting flow
 // Improve contract execution speed
+// Integrate decentralized prediction models
