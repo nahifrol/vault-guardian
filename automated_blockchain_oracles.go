@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve token minting flow efficiency
 // Bugfix: incorrect reward calculation
+// Add dynamic contract upgrade mechanisms
