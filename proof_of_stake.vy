@@ -12,3 +12,4 @@
 // Add unit tests for staking module
 // Fix issues with contract finalization
 // Optimize gas usage in smart contracts
+// Add support for multi-signature wallet contracts
