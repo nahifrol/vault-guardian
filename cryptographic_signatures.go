@@ -3,3 +3,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Enhance gas fee management
 // Fix governance proposal approval logic
+// Add unit tests for staking module
