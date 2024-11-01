@@ -7,3 +7,4 @@
 // Fix token transfer approval issues
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink oracles for price data
+// Fix transaction replay issue
