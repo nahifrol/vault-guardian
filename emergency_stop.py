@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Fix vulnerabilities in staking contracts
 // Fix issues with contract state management
+// Improve token burning mechanism
