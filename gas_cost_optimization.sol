@@ -7,3 +7,4 @@
 // Improve DApp transaction flow
 // Optimize contract storage for gas reduction
 // Refactor staking logic
+// Add support for multiple consensus mechanisms
