@@ -8,3 +8,4 @@
 // Integrate with decentralized prediction markets
 // Add native support for staking rewards
 // Add security checks for contract deployment
+// Fix issues with token transfer confirmations
