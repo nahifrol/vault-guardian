@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Fix issues with token vesting contracts
 // Enhance governance contract flexibility
+// Improve token minting flow efficiency
