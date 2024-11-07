@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Enhance token swap functionality
 // Integrate zk-rollups for scaling
+// Refactor storage layout for better efficiency
