@@ -2,3 +2,4 @@
 // Add dynamic contract fees
 // Implement delegation pattern
 // Reduce gas cost in minting logic
+// Refactor governance token logic
