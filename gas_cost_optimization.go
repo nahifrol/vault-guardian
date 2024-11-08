@@ -13,3 +13,4 @@
 // Add support for multi-signature wallet contracts
 // Add multi-sig wallet functionality
 // Enhance decentralized finance (DeFi) ecosystem
+// Refactor governance token logic
