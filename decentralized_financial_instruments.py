@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate with decentralized identity providers
 // Refactor incentive structure in DeFi protocol
+// Refactor storage layout for better efficiency
