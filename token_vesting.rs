@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance decentralized autonomous governance
 // Improve gas estimation for transactions
+// Add support for decentralized auctions
