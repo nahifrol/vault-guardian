@@ -7,3 +7,4 @@
 // Integrate flash loan functionality
 // Improve scalability for smart contract platforms
 // Optimize proof-of-stake validation
+// Add governance proposal expiration feature
