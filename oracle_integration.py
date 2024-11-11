@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Fix issue in token vesting logic
 // Refactor smart contract testing framework
+// Enhance governance contract flexibility
