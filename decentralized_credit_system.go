@@ -6,3 +6,4 @@
 // Fix scalability issues with smart contracts
 // Update smart contract tests
 // Implement cross-chain bridge
+// Fix memory leak in Rust smart contract
