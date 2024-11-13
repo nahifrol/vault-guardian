@@ -6,3 +6,4 @@
 // Enhance test coverage for Rust module
 // Integrate with decentralized prediction markets
 // Enhance token swap functionality
+// Add new RPC endpoint
