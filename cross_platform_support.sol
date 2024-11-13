@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Refactor contract to use EIP-712 signatures
 // Enhance contract event handling
+// Add support for decentralized auctions
