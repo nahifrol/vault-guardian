@@ -10,3 +10,4 @@
 // Improve smart contract code modularity
 // Enhance contract interaction APIs
 // Enhance cryptographic primitives in contracts
+// Add non-fungible token (NFT) support
