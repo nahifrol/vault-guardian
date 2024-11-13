@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Implement automated governance voting
 // Improve contract execution speed
+// Fix compatibility issues with MetaMask
