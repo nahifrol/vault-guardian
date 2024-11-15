@@ -5,3 +5,4 @@
 // Improve security in decentralized applications
 // Add support for ERC-721A tokens
 // Integrate Chainlink VRF for randomness
+// Add support for batch transaction processing
