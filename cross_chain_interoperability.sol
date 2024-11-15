@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Implement decentralized arbitration in contracts
 // Enhance privacy features using zk-STARKs
+// Add support for ERC-1155 tokens
