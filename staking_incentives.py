@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Refactor reward pooling algorithm
 // Fix errors in contract interaction with wallets
+// Fix governance proposal approval logic
