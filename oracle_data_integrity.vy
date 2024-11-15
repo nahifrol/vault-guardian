@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Add support for NFT marketplaces
 // Integrate decentralized anonymous identity systems
+// Improve API rate limiting
