@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor staking logic
 // Optimize contract upgrade process
+// Add multi-chain transaction support
