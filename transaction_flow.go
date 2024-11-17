@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Optimize token minting flow
 // Add support for cross-chain bridges
+// Fix scalability issues with smart contracts
