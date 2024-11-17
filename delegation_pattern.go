@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Improve transaction batching efficiency
 // Implement automated governance voting
+// Refactor contract to use EIP-712 signatures
