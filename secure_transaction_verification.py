@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Improve gas estimation for transactions
 // Fix ERC-20 token interface bugs
+// Optimize cross-chain communication
