@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Improve security in decentralized applications
 // Enhance off-chain data processing
+// Add support for NFT marketplaces
