@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Fix issues with ERC-20 token approvals
 // Add new RPC endpoint
+// Add automated smart contract testing
