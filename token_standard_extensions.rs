@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Add support for decentralized lending platforms
 // Improve decentralized lending contract flexibility
+// Add support for decentralized file storage
