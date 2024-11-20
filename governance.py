@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Refactor validator reward system
 // Fix security vulnerability in random number generation
+// Enhance test coverage for Rust module
