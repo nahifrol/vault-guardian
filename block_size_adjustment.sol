@@ -10,3 +10,4 @@
 // Improve gas estimation for transactions
 // Refactor smart contract testing framework
 // Fix interoperability issues with other blockchains
+// Optimize gas usage in smart contracts
