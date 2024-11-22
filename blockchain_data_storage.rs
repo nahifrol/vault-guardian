@@ -7,3 +7,4 @@
 // Add batch transaction capabilities
 // Fix issues with contract state management
 // Implement liquidity pool staking mechanism
+// Fix ERC-20 token interface bugs
