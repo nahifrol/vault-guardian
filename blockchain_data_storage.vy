@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Refactor decentralized storage system
 // Fix ERC-721 contract issues with transfers
+// Add new feature: on-chain governance
