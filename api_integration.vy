@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Implement automatic transaction retries
 // Refactor reward pooling algorithm
+// Add security checks for contract deployment
