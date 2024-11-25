@@ -2,3 +2,4 @@
 // Fix issues with token vesting contracts
 // Refactor contract to use EIP-712 signatures
 // Add decentralized contract upgradeability
+// Add support for NFT marketplaces
