@@ -9,3 +9,4 @@
 // Add fallback mechanism in Solidity contract
 // Improve transaction batching efficiency
 // Add batch transaction capabilities
+// Refactor reward pooling algorithm
