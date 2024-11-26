@@ -7,3 +7,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor oracle interaction logic
 // Implement automatic transaction retries
+// Integrate privacy-preserving mechanisms
