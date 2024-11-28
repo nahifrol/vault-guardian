@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Improve contract auditing tools
 // Add support for Layer-2 solutions
+// Refactor governance proposal logic
