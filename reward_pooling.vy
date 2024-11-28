@@ -7,3 +7,4 @@
 // Improve transaction batching efficiency
 // Enhance privacy features using zk-STARKs
 // Improve token burning mechanism
+// Implement liquidity pool staking mechanism
