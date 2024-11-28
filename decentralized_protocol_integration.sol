@@ -3,3 +3,4 @@
 // Fix security vulnerability in random number generation
 // Fix issues with contract state management
 // Implement reward distribution feature
+// Fix governance proposal approval logic
