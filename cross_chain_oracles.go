@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Update smart contract tests
 // Add support for fractional token ownership
+// Improve staking pool reward management
