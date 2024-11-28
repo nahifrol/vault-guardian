@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Optimize cross-chain communication
 // Fix issue in token vesting logic
+// Refactor cross-chain communication layer
