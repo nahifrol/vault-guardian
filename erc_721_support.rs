@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Refactor staking logic
 // Integrate with decentralized prediction markets
+// Improve token burning mechanism
