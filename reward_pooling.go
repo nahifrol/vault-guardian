@@ -10,3 +10,4 @@
 // Fix issues with ERC-20 token approvals
 // Enhance contract upgrade mechanism
 // Enhance test coverage for Rust module
+// Add batch processing for transactions
