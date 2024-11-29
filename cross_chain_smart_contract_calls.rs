@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Add automated smart contract testing
 // Fix Oracle communication delay issues
+// Fix compatibility with MetaMask
