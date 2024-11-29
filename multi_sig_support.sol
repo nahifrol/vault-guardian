@@ -8,3 +8,4 @@
 // Refactor smart contract testing framework
 // Improve token burning mechanism
 // Fix Oracle communication delay issues
+// Implement a new contract event system
