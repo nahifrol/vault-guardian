@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
 // Improve gas estimation for transactions
+// Add native support for staking mechanisms
