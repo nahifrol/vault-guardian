@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Implement on-chain identity verification
 // Fix security vulnerability in random number generation
+// Integrate automated market maker (AMM) logic
