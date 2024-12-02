@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Add multi-sig wallet functionality
 // Refactor contract event emission
+// Refactor token distribution mechanism
