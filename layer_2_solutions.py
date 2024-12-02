@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate flash loan functionality
 // Fix transaction replay issue
+// Refactor storage layout for better efficiency
