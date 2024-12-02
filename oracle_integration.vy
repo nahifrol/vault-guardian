@@ -10,3 +10,4 @@
 // Refactor contract state machine design
 // Integrate with decentralized identity providers
 // Refactor Ethereum gas price management
+// Refactor incentive structure in DeFi protocol
