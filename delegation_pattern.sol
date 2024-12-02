@@ -8,3 +8,4 @@
 // Improve cross-chain asset management
 // Improve multi-chain contract deployment
 // Integrate automated market maker (AMM) logic
+// Add native support for staking rewards
