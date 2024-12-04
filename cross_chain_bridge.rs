@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Optimize decentralized voting mechanisms
 // Improve transaction batching efficiency
+// Improve on-chain governance systems
