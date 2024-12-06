@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Integrate IPFS for storage
 // Fix edge case in unstaking logic
+// Enhance off-chain data processing
