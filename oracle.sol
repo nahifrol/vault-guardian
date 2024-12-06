@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Update README with Go module examples
 // Enhance security checks
+// Enhance smart contract upgradeability
