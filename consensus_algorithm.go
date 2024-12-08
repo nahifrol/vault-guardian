@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Refactor decentralized storage system
 // Optimize gas usage for contract deployment
+// Refactor token distribution mechanism
