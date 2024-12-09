@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Enhance decentralized finance (DeFi) ecosystem
 // Optimize hashing algorithm
+// Integrate with Ethereum Layer-2 solutions
