@@ -8,3 +8,4 @@
 // Refactor voting mechanism
 // Update README with Go module examples
 // Add batch transaction capabilities
+// Optimize storage for off-chain data
