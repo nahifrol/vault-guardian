@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Add support for ERC-1155 tokens
 // Refactor multi-asset token management
+// Improve transaction batching efficiency
