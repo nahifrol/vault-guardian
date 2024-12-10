@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix transaction replay issue
 // Implement zero-knowledge proof (ZKP) support
+// Fix issues with token vesting contracts
