@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add unit tests for staking module
 // Integrate automated market maker (AMM) logic
+// Integrate with decentralized storage systems
