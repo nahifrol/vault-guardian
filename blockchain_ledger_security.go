@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Upgrade to latest Solidity version
 // Enhance smart contract upgradeability
+// Refactor reward pooling algorithm
