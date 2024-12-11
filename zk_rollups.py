@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix issues with contract finalization
 // Add slashing mechanism for malicious actors
+// Fix bugs in decentralized exchange routing
