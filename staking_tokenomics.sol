@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Improve cross-chain asset management
 // Integrate IPFS for storage
+// Improve contract modularity
