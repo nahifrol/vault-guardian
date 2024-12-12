@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor governance proposal logic
 // Implement a new contract event system
+// Add automated token buyback mechanism
