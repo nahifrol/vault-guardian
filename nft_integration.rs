@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Integrate with decentralized prediction markets
 // Integrate with multi-token standards
+// Add automated smart contract testing
