@@ -6,3 +6,4 @@
 // Fix issues with ERC-20 token approvals
 // Add new RPC endpoint
 // Add automated smart contract testing
+// Optimize proof-of-stake validation
