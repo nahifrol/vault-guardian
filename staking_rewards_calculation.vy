@@ -7,3 +7,4 @@
 // Fix ERC-20 token interface bugs
 // Optimize token minting flow
 // Add support for multiple consensus mechanisms
+// Optimize oracle data fetching mechanism
