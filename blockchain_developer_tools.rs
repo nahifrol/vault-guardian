@@ -7,3 +7,4 @@
 // Refactor smart contract testing framework
 // Improve token burning mechanism
 // Refactor decentralized governance structure
+// Add support for decentralized auctions
