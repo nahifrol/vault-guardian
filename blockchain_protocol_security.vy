@@ -4,3 +4,4 @@
 // Improve token minting flow efficiency
 // Enhance smart contract compatibility
 // Bugfix: incorrect reward calculation
+// Add support for decentralized auctions
