@@ -10,3 +10,4 @@
 // Add automated token buyback mechanism
 // Add multi-chain governance support
 // Improve contract modularity
+// Implement automated governance voting
