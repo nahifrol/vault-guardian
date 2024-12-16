@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Optimize proof-of-stake validation
 // Reduce gas cost in minting logic
+// Optimize contract storage for gas reduction
