@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Improve error handling in transaction flow
 // Enhance smart contract state changes monitoring
+// Integrate staking rewards automation
