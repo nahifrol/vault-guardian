@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Add support for yield farming rewards
 // Enhance smart contract compatibility
+// Add support for decentralized credit scoring
