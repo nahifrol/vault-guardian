@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Implement a new contract event system
 // Add automated token buyback mechanism
+// Integrate IPFS for storage
