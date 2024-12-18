@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Improve multi-chain contract deployment
 // Integrate decentralized oracles for data feeds
+// Refactor contract to use EIP-712 signatures
