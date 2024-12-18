@@ -4,3 +4,4 @@
 // Implement dynamic fee adjustment
 // Add governance proposal expiration feature
 // Fix memory optimization issues in contracts
+// Fix ERC-20 token interface bugs
