@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Improve contract state management
 // Fix issues with contract state management
+// Refactor validator reward system
