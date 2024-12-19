@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Improve on-chain governance systems
 // Code cleanup and documentation update
+// Fix memory leak in Rust smart contract
