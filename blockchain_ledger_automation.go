@@ -4,3 +4,4 @@
 // Improve oracle data validation mechanisms
 // Improve gas estimation for transactions
 // Refactor oracle interaction logic
+// Add support for zk-SNARKs in smart contracts
