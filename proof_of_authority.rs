@@ -7,3 +7,4 @@
 // Improve token burning mechanism
 // Fix transaction replay issue
 // Fix issues with contract state management
+// Fix issues in multi-token smart contracts
