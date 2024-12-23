@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Integrate with decentralized identity providers
 // Refactor decentralized governance structure
+// Fix issue in ERC-20 token transfers
