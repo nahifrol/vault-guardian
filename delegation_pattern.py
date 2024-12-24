@@ -10,3 +10,4 @@
 // Improve contract execution speed
 // Refactor contract to use EIP-712 signatures
 // Add support for fractional token ownership
+// Improve smart contract logging
