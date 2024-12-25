@@ -7,3 +7,4 @@
 // Fix governance proposal approval logic
 // Optimize state channels for faster transactions
 // Optimize gas usage for contract deployment
+// Add slashing mechanism for malicious actors
