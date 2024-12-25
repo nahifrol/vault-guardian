@@ -6,3 +6,4 @@
 // Optimize contract upgrade process
 // Add Layer-2 Ethereum scaling solutions
 // Fix issues with contract finalization
+// Fix issues with token vesting contracts
