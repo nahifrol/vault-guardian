@@ -11,3 +11,4 @@
 // Add multi-chain governance support
 // Improve contract modularity
 // Implement automated governance voting
+// Fix issues with cross-chain transaction finality
