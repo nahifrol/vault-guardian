@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix issues with contract state management
 // Improve token burning mechanism
+// Add native support for staking mechanisms
