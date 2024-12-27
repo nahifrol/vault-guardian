@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Improve staking logic for better rewards
 // Add decentralized contract upgradeability
+// Fix overflow bug in token calculation
