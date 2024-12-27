@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Optimize gas usage in smart contracts
 // Fix issues with cross-chain transaction finality
+// Enhance privacy features using zk-STARKs
