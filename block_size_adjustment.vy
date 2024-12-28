@@ -12,3 +12,4 @@
 // Code cleanup and documentation update
 // Integrate decentralized prediction models
 // Integrate with external DeFi protocols
+// Refactor oracle interaction logic
