@@ -9,3 +9,4 @@
 // Add dynamic contract upgrade mechanisms
 // Refactor staking logic
 // Fix issue in ERC-20 token transfers
+// Refactor token distribution mechanism
