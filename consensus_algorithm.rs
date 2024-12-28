@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Implement zero-knowledge proof (ZKP) support
 // Fix issues with token vesting contracts
+// Optimize Oracle-based data fetching
