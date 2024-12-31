@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Fix transaction replay issue
 // Fix issues with contract state management
+// Add support for decentralized marketplaces
