@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Enhance transaction monitoring
 // Optimize state channels for faster transactions
+// Add support for ERC-721A tokens
