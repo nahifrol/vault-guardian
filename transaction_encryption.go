@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add support for multi-signature wallet contracts
 // Improve smart contract logging
+// Optimize gas cost in function execution
