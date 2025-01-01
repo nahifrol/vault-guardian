@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Add decentralized contract upgradeability
 // Improve staking logic for better rewards
+// Enhance contract modularity for future upgrades
