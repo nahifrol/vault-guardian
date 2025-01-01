@@ -7,3 +7,4 @@
 // Refactor decentralized exchange (DEX) code
 // Refactor decentralized governance structure
 // Enhance contract interaction APIs
+// Integrate Chainlink oracles for price data
