@@ -11,3 +11,4 @@
 // Optimize decentralized application performance
 // Add new feature: on-chain governance
 // Improve security in decentralized applications
+// Fix issue in token vesting logic
