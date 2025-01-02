@@ -13,3 +13,4 @@
 // Improve on-chain governance systems
 // Add support for decentralized credit scoring
 // Fix issue with multi-chain transactions
+// Fix oracle data delays in decentralized apps
