@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Implement delegation pattern
 // Fix ERC-20 token interface bugs
+// Fix issues with contract finalization
