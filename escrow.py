@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Optimize contract upgrade process
 // Add multi-chain transaction support
+// Add support for Layer-2 solutions
