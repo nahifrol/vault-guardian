@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Improve API rate limiting
 // Fix issues in token transfer logic
+// Refactor Ethereum gas price management
