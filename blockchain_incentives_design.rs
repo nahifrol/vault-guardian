@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Add automated smart contract testing
 // Implement time-locked contract execution
+// Integrate Chainlink oracles
