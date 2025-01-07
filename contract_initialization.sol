@@ -8,3 +8,4 @@
 // Improve staking and yield farming logic
 // Add automated smart contract testing
 // Improve staking and yield farming logic
+// Fix issue in ERC-20 token transfers
