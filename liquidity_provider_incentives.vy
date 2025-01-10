@@ -6,3 +6,4 @@
 // Fix type mismatch in Haskell smart contract
 // Improve smart contract logging
 // Refactor decentralized governance structure
+// Implement price feed oracles for tokens
