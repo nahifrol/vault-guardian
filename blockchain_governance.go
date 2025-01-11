@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Fix edge case in unstaking logic
 // Refactor contract event emission
+// Enhance contract state verification
