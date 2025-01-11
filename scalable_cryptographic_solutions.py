@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Refactor contract to use EIP-712 signatures
 // Update dependencies for Vyper contract
+// Enhance contract event handling
