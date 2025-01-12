@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Optimize token burn process
 // Add support for multiple consensus mechanisms
+// Enhance developer documentation
