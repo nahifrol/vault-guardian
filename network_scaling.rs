@@ -7,3 +7,4 @@
 // Fix compatibility with MetaMask
 // Improve oracle data validation mechanisms
 // Optimize decentralized voting mechanisms
+// Refactor storage layout for better efficiency
