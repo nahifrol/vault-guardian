@@ -6,3 +6,4 @@
 // Improve contract state management
 // Fix issues with contract state management
 // Refactor validator reward system
+// Add multi-sig wallet functionality
