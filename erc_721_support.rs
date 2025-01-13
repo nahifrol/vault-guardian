@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Integrate with decentralized prediction markets
 // Improve token burning mechanism
+// Integrate chain-agnostic oracles
