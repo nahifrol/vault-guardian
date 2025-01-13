@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Fix type mismatch in Haskell smart contract
 // Refactor validator reward system
+// Add support for decentralized file storage
