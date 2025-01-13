@@ -11,3 +11,4 @@
 // Fix race condition in staking pool
 // Fix vulnerabilities in staking contracts
 // Implement adaptive block size for Ethereum
+// Fix issues with token vesting contracts
