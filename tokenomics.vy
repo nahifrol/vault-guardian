@@ -6,3 +6,4 @@
 // Integrate with external DeFi protocols
 // Improve error handling in transaction flow
 // Enhance governance contract flexibility
+// Improve staking logic for better rewards
