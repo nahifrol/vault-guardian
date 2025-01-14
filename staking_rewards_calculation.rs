@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Integrate privacy-preserving mechanisms
 // Improve contract execution performance
+// Fix type mismatch in Haskell smart contract
