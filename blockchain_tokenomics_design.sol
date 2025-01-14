@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix vulnerabilities in staking contracts
 // Add batch processing for transactions
+// Improve DApp transaction flow
