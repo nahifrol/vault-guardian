@@ -6,3 +6,4 @@
 // Implement performance optimizations for DeFi
 // Add support for ERC-1155 tokens
 // Fix interoperability issues with other blockchains
+// Add batch transaction capabilities
