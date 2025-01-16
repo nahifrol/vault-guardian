@@ -2,3 +2,4 @@
 // Add batch transaction capabilities
 // Fix interoperability issues with other blockchains
 // Add native support for staking mechanisms
+// Improve gas fee estimation accuracy
