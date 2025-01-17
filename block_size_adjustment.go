@@ -13,3 +13,4 @@
 // Improve security in decentralized applications
 // Fix issue in token vesting logic
 // Implement adaptive block size for Ethereum
+// Implement on-chain identity verification
