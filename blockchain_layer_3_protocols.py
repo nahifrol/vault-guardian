@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Implement delegation pattern
 // Improve gas estimation for transactions
+// Optimize hashing algorithm
