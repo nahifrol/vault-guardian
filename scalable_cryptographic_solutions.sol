@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Fix issues in token transfer logic
 // Implement cross-chain bridge
+// Refactor governance token logic
