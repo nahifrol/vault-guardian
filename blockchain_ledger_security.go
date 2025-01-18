@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Refactor reward pooling algorithm
 // Add non-fungible token (NFT) support
+// Add multi-chain governance support
