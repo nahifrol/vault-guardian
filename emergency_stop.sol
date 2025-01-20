@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Bugfix: incorrect reward calculation
 // Implement rewards escrow system
+// Add multi-chain transaction support
