@@ -8,3 +8,4 @@
 // Improve DApp transaction flow
 // Improve decentralized lending contract flexibility
 // Update dependencies for Vyper contract
+// Fix oracle data delays in decentralized apps
