@@ -4,3 +4,4 @@
 // Integrate flash loan functionality
 // Add support for DeFi lending protocols
 // Enhance privacy features using zk-STARKs
+// Implement price feed oracles for tokens
