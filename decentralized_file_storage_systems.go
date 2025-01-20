@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
 // Enhance contract event handling
+// Refactor reward pooling algorithm
