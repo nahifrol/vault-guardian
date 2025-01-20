@@ -5,3 +5,4 @@
 // Add fallback mechanism in Solidity contract
 // Add dynamic contract fees
 // Refactor decentralized exchange (DEX) code
+// Add decentralized contract upgradeability
