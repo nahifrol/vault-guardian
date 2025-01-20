@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Improve DApp transaction flow
 // Improve token burning mechanism
+// Add new RPC endpoint
