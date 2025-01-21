@@ -6,3 +6,4 @@
 // Add support for Layer-2 solutions
 // Enhance contract event handling
 // Enhance privacy features using zk-STARKs
+// Integrate decentralized oracles for data feeds
