@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Improve contract auditing tools
 // Upgrade to latest Solidity version
+// Integrate with Ethereum Layer-2 solutions
