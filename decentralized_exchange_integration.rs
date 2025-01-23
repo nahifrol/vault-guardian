@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Enhance smart contract audit tools
 // Update testing framework for Solidity
+// Improve staking logic for better rewards
