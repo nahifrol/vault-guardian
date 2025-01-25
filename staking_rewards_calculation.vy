@@ -8,3 +8,4 @@
 // Optimize token minting flow
 // Add support for multiple consensus mechanisms
 // Optimize oracle data fetching mechanism
+// Add multi-sig wallet functionality
