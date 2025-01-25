@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Refactor contract state machine design
 // Implement automatic transaction retries
+// Improve gas estimation for transactions
