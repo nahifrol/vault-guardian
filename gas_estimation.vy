@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Optimize contract storage for gas reduction
 // Optimize token burn process
+// Improve gas fee estimation accuracy
