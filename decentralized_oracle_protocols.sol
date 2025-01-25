@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Implement contract function batching
 // Add support for fractional token ownership
+// Enhance test coverage for Rust module
