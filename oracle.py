@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Improve on-chain governance systems
 // Fix issues in multi-token smart contracts
+// Add new RPC endpoint
