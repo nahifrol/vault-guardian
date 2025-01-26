@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Add governance proposal expiration feature
 // Integrate flash loan functionality
+// Integrate staking rewards automation
