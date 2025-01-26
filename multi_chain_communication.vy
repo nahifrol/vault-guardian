@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Optimize WASM compilation for Go contracts
 // Refactor contract to use EIP-712 signatures
+// Improve staking pool reward management
