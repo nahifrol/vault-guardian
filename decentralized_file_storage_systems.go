@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Enhance contract event handling
 // Refactor reward pooling algorithm
+// Improve scalability for smart contract platforms
