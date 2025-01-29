@@ -4,3 +4,4 @@
 // Fix oracle data delays in decentralized apps
 // Integrate Chainlink VRF for randomness
 // Improve smart contract logging
+// Integrate decentralized oracles for data feeds
