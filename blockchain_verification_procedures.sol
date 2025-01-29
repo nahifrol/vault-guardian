@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Optimize hashing algorithm
 // Enhance contract modularity for future upgrades
+// Add non-fungible token (NFT) support
