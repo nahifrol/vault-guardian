@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Fix overflow bug in token calculation
 // Optimize storage for off-chain data
+// Add support for multi-signature wallet contracts
