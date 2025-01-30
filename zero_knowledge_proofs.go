@@ -10,3 +10,4 @@
 // Add security checks for contract deployment
 // Add Layer-2 Ethereum scaling solutions
 // Fix ERC-1155 contract interactions
+// Add new RPC endpoint
