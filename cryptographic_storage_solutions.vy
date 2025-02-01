@@ -3,3 +3,4 @@
 // Fix issues with contract finalization
 // Add Layer-2 Ethereum scaling solutions
 // Refactor validator reward system
+// Add support for multi-signature wallet contracts
