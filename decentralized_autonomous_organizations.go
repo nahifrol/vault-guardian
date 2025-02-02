@@ -4,3 +4,4 @@
 // Refactor token distribution mechanism
 // Add support for cross-chain bridges
 // Add support for decentralized content distribution
+// Integrate zk-rollups for scaling
