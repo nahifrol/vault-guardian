@@ -4,3 +4,4 @@
 // Enhance security checks
 // Enhance contract modularity for future upgrades
 // Add multi-sig wallet functionality
+// Implement delegation pattern
