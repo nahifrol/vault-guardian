@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Improve contract execution speed
 // Add native support for staking mechanisms
+// Add fallback mechanism in Solidity contract
