@@ -2,3 +2,4 @@
 // Add support for NFT marketplaces
 // Refactor contract state machine design
 // Refactor storage layout for better efficiency
+// Integrate decentralized prediction models
