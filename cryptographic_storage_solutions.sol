@@ -5,3 +5,4 @@
 // Add new feature: on-chain governance
 // Fix bugs in decentralized exchange routing
 // Optimize state channels for faster transactions
+// Add fallback mechanism in Solidity contract
