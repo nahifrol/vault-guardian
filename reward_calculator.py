@@ -4,3 +4,4 @@
 // Add automated token buyback mechanism
 // Add support for delegation in governance
 // Fix compatibility with MetaMask
+// Update smart contract tests
