@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add support for multiple consensus mechanisms
 // Implement emergency stop mechanism
+// Fix issue in token vesting logic
