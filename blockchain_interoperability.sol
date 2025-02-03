@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Implement on-chain identity verification
 // Improve oracle data validation mechanisms
+// Integrate Chainlink VRF for randomness
